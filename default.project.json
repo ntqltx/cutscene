@@ -1,0 +1,20 @@
+{
+  "name": "cutscene-test-place",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "test-place/shared"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "test-place/client"
+        }
+      }
+    }
+  }
+}

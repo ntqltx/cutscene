@@ -1,0 +1,8 @@
+# Project place file
+cutscene-test-place.rbxlx
+
+# Roblox Studio lock files
+*.rbxlx.lock
+*.rbxl.lock
+
+sourcemap.json

@@ -1,0 +1,7 @@
+std = "roblox"
+
+[lints]
+global_usage = "deny"
+unused_variable = "deny"
+allow_unused_self = "deny"
+manual_table_clone = "deny"
